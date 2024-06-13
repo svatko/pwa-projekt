@@ -1,0 +1,29 @@
+Na početnu dođite preko:
+https://localhost/projekt-pwa/php/
+
+Na članke možete preko linkova na početnoj.
+
+Na jednu od kategorija članaka možete na
+https://localhost/projekt-pwa/php/kategorija.php?id=pjesme
+https://localhost/projekt-pwa/php/kategorija.php?id=price
+ili
+preko navigacije
+
+Za unos otiđite na:
+https://localhost/projekt-pwa/php/unos.php
+
+Testni podaci su u direktoriju:
+projekt-pwa/price-pjesme
+
+Za administraciju otiđite na:
+https://localhost/projekt-pwa/php/administracija.php
+ili
+preko navigacije
+
+Na administracijskoj stranici bi se trebala pojaviti forma za prijavu, 
+a ako se ne uspijete prijaviti trebao bi se pojaviti link za registraciju (https://localhost/projekt-pwa/php/registracija.php).
+(Nisam odradio.)
+
+Stranica bi trebala responzivna iako je stilistički ružna.
+
+ 
